@@ -13,5 +13,8 @@
   "devDependencies": {
     "@mistjs/eslint-config-vue": "^0.0.2",
     "eslint": "^8.18.0"
+  },
+  "dependencies": {
+    "@vue/tsconfig": "^0.1.3"
   }
 }
