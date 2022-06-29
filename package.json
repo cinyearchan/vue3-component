@@ -1,0 +1,17 @@
+{
+  "name": "vue3-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "packageManager": "pnpm@7.4.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@mistjs/eslint-config-vue": "^0.0.2",
+    "eslint": "^8.18.0"
+  }
+}
